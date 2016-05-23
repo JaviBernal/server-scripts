@@ -6,7 +6,7 @@
 WEBROOT='/var/www/htdocs'
 DIRCOPIAS='/root/copias-web'
 FICHNAME=$1-`date +%y%m%d`-`date +%R`
-MYPASS='ucnQZFVPH6r*A'
+MYPASS='mypass'
 
 ## Colores
 AZUL='\033[0;34m'
